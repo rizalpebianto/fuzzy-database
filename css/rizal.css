@@ -1,0 +1,16 @@
+.footer1{
+ height: 100%;}
+
+#sticky-footer{
+ 	flex-shrink: none;
+ }
+
+ .queryForm{
+ 	margin-top: 20px;
+ 	margin-left: 20%;
+ 	margin-right: 20%; 
+ }
+
+ .ukuranBadge{
+ 	width: 25%;
+ }
